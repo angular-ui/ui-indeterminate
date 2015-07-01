@@ -31,5 +31,11 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/angular-ui/ui-indeterminate.git"
-  }
+  },
+  "keywords": [
+    "angular",
+    "angular-ui",
+    "indeterminate",
+    "checkbox"
+  ]
 }
